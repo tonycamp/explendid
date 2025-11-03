@@ -1,7 +1,7 @@
 # explendid
 
 not too much too explain
-a coder in blitz max basic with the help of to compress to 97 % or 7.92 entropy
+a coder in blitz max basic with the help of AI to compress to 97 % or 7.92 entropy
 in order to compress any file
 to a minimum filesize of 10K
 reverse engine to be done
