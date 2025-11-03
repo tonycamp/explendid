@@ -6,3 +6,5 @@ in order to compress any file
 to a minimum filesize of 10K
 reverse engine to be done
 no explanation now what soo ever about the code without no single reminder or description with any remark
+
+in the fast version goes like compression of the file 75kb taken in 1 min.
