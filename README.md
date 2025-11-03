@@ -8,3 +8,6 @@ reverse engine to be done
 no explanation now what soo ever about the code without no single reminder or description with any remark
 
 in the fast version goes like compression of the file 75kb taken in 1 min.
+
+since im doing 200 000 000 integer to just store a bit over 200 000 000 bits goes like max
+filesize of 200 000 000 / 8 = max file size of 22Mb or soo lots to improve.
